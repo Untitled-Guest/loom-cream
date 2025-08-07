@@ -38,3 +38,12 @@ a {
 a:hover {
   transform: translateY(-5px);
 }
+
+.footer-block {
+    display: inline-block;
+    padding: 5px;
+}
+
+.footer-list-horizontal {
+    border: black solid 2px;
+}
